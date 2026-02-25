@@ -1,23 +1,17 @@
 ---
 navTitle: Home
-title: Eleventy Notes
-headline: Welcome to Eleventy Notes
+title: Docs
+headline: Tools by @rom4eg
 panel: false
-nextPage: "[[Getting started]]"
+nextPage: "[[Projects]]"
 ---
 
-Welcome to **Eleventy Notes**, an opinionated template for publishing your personal notes, documentation, or even your blog! Built with [Eleventy](https://11ty.dev/), the powerful static site generator, Eleventy Notes is packed with features you'll love.
+Hi! My name is Roman, and I develop tools that make life easier. This is a portal with documentation for all my projects.
 
-With Eleventy Notes, you can:
+The collection is constantly expanding - if a project is useful to me, perhaps it will be useful to you too.
 
-- ✅ Create [[Wikilinks]] and backlinks to easily navigate your content
-- ✅ Organize your content with [[Tags]] for easy searching and filtering
-- ✅ Quickly find what you need with a [[Search|client-side search]]
-- ✅ Choose from two [[Themes]] and multiple color schemes to match your style
-- ✅ Customize your [[Sidebar]] with support for folders and subfolders
-- ✅ Enjoy a lightweight and fast experience, with minimal JavaScript
-- ... and much more!
+### Quick Start
+Select the project you're interested in from the menu on the left (or in the table below) and follow the installation and configuration instructions. Most projects can be installed via `go install`, built from source, or a pre-built Docker image.
 
-Whether you're a blogger, developer, or just someone who loves to write, Eleventy Notes has everything you need to publish your content. So what are you waiting for? Get started today by reading our [[Getting started]] guide and start sharing your thoughts with the world!
-
-Built with ❤️ by [Sandro Roth](https://sandroroth.com/) • [Third-party license](./third-party-license.txt)
+### Projects:
+* **[gostub](https://github.com/Rom4eg/gostub)** - lightweight stub server that uses Go templates to generate dynamic API responses, making it easy to simulate external services during development and testing
