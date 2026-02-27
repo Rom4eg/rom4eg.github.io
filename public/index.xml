@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go Разработчик</title>
+    <link>https://rom4eg.github.io/</link>
+    <description>Recent content on Go Разработчик</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rom4eg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проекты</title>
+      <link>https://rom4eg.github.io/projects/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://rom4eg.github.io/projects/</guid>
+      <description>&lt;p&gt;Если увидишь баг или захочешь докрутить функционал - велкам в пул-реквесты.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Rom4eg/gostub&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;gostub&lt;/strong&gt;&lt;/a&gt; - Легковесный сервер заглушек, использующий шаблоны Go для генерации динамических ответов API, для имитации внешних сервисов во время разработки и тестирования.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Строю мосты между идеями и кодом.</title>
+      <link>https://rom4eg.github.io/about/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://rom4eg.github.io/about/</guid>
+      <description>&lt;p&gt;Привет, я Роман, разработчик, который однажды открыл для себя Go и понял, что это «та самая» любовь с первой компиляции.&lt;/p&gt;&#xA;&lt;p&gt;Мой подход прост: писать код так, чтобы он был понятен не только машине, но и человеку, который зайдет в репозиторий через полгода (да, тому самому мне). Я фанат чистого кода, эффективных алгоритмов и чашек хорошего кофе во время дебаггинга.&lt;/p&gt;&#xA;&lt;p&gt;Основные компетенции:&lt;/p&gt;&#xA;&lt;p&gt;Языки: Go (core, goroutines, channels, net/http)&lt;/p&gt;&#xA;&lt;p&gt;Базы данных: PostgreSQL, MySQL, Redis&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Хочешь обсудить проект или просто поболтать за кофе?</title>
+      <link>https://rom4eg.github.io/contact/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://rom4eg.github.io/contact/</guid>
+      <description>&lt;p&gt;Мой код открыт для всего мира, а я открыт для новых знакомств. Если у тебя есть идея, которая нуждается в надежном бэкенде, или просто хочешь обсудить последние новости из мира Go, — пиши!&lt;/p&gt;&#xA;&lt;p&gt;Почта: &lt;a href=&#34;mailto:1969397@gmail.com&#34; &gt;1969397@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/rom4eg&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github.com/rom4eg&lt;/a&gt; (там можно посмотреть, как я пишу код, когда никто не видит)&lt;/p&gt;&#xA;&lt;p&gt;Telegram: &lt;a href=&#34;https://t.me/Rom4eg196&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@rom4eg196&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

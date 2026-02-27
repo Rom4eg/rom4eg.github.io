@@ -1,0 +1,54 @@
+baseurl = "https://rom4eg.github.io/"
+title = "@rom4eg - Go Developer"
+
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+
+[pagination]
+pagerSize = 20
+
+[markup.highlight]
+style = "monokai"
+
+[params]
+  author = "Roman Paranichev"
+  info = "Go Developer"
+  description = "Rom4eg portfolio"
+  keywords = "developer,personal,go,golang"
+  #avatarurl = "images/tux.jpeg"
+  gravatar = "1969397@mail.ru"
+
+  faviconSVG = "https://0.gravatar.com/avatar/02fa0ae579bd5291fd4de65dea86d41b2f2759f724aba9269ca68431c83b8298?s=64"
+  favicon_32 = "https://0.gravatar.com/avatar/02fa0ae579bd5291fd4de65dea86d41b2f2759f724aba9269ca68431c83b8298?s=32"
+  favicon_16 = "https://0.gravatar.com/avatar/02fa0ae579bd5291fd4de65dea86d41b2f2759f724aba9269ca68431c83b8298?s=16"
+
+  since = 2026
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  # series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/johndoe/"
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
