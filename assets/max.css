@@ -1,0 +1,8 @@
+.fa-max {
+    background: url('https://maxicons.ru/icons/Max_logo.svg') center/contain no-repeat;
+}
+
+.centered .about ul {
+    display: flex;
+    justify-content: center;
+}
